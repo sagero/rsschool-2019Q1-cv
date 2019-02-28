@@ -23,17 +23,26 @@ Minsk, **tel.** +375(33) 662-57-68, **e-mail**: netralitet@gmail.com
 
 ## Education
 * Graduation Year: 2010
-Name of the Education Establishment: Belarusian State University of Informatics and Radioelectronics 
+
+Name of the Education Establishment: Belarusian State University of Informatics and Radioelectronics
+
 Faculty/College: Faculty of Telecommunications
+
 Degree (diploma): Specialist
+
 Specialty: Multichannel telecommunication systems
+
 Qualification: Telecommunications Engineer
 
 * Graduation Year: 2016
 Name of the Education Establishment: BSUIR Institute of Information Technologies 
+
 Faculty/College: Faculty of Professional Development and Retraining
+
 Degree (diploma): Specialist
+
 Specialty: Information Systems Software
+
 Qualification: Engineer programmer
 
 ## English - B1 
