@@ -1,6 +1,8 @@
 # Siargei Kiniou
 Minsk, **tel.** +375(33) 662-57-68, **e-mail**: netralitet@gmail.com 
 
+![Siargei Kiniou](image.jpg)
+
 ## Summary
 - Disciplined, responsible, eager to study and explore new technologies. Perfectionist, collaborative developer, stress resistant.
 - Willing to develop complex and challenging projects.
