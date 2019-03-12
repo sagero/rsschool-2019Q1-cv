@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    max-width: 1024px;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 180%;
+    color: #333;
+}
+
+.profile {
+    background-color: #328cbd;
+    padding: 30px 20px;
+    margin: 10px 0;
+    border-radius: 10px;
+    color: #ddd;
+    width: 300px;
+}
+
+.profile h2 {
+    color: #fff;
+    padding-left: 10px;
+}
+
+.contacts {
+    list-style-type: none; 
+    margin-left: 10px;
+}
+
+.round {
+    width: 120px;
+    border-radius: 20px; /* Радиус скругления */
+    border: 3px solid #fafafa; /* Параметры рамки */
+}
+
+h1 {
+    
+    font-size: 40px;
+    line-height: 100px
+}
+
+h2 {
+    color: #328cbd;
+    border-bottom: solid 2px #328cbd;
+    margin: 20px 0;
+}
+
+.summary {
+    padding: 20px 50px;
+}
+
+.avatar {
+    width: 300px;
+    text-align: center;
+    
+}
+main {
+   display: flex;
+}
+
+ul {
+    margin-left: 20px;
+}
